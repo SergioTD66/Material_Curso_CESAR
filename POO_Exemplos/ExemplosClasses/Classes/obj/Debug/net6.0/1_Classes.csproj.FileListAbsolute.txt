@@ -1,0 +1,15 @@
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\bin\Debug\net6.0\1_Classes.exe
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\bin\Debug\net6.0\1_Classes.deps.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\bin\Debug\net6.0\1_Classes.runtimeconfig.json
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\bin\Debug\net6.0\1_Classes.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\bin\Debug\net6.0\1_Classes.pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.csproj.AssemblyReference.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.AssemblyInfoInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.AssemblyInfo.cs
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.csproj.CoreCompileInputs.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\refint\1_Classes.dll
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.pdb
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\1_Classes.genruntimeconfig.cache
+C:\Users\Sérgio Tadeu\Desktop\Curso CESAR\CursoCSharp\POO_Exemplos\ExemplosClasses\Classes\obj\Debug\net6.0\ref\1_Classes.dll
